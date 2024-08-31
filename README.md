@@ -1,2 +1,2 @@
 # odin-recipes
-This is a recipe for... I don't know yet.
+This is a website with recipes for a few desserts that I liked on the Allrecipes website.
